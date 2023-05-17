@@ -15,14 +15,25 @@
 |https://www.lightpollutionmap.info/|Shows Light Polution|
 |https://www.blitzortung.org/|Realtime Thunder|
 |https://www.lightningmaps.org/|Realtime Thunder|
+|https://www.thetruesize.com/|True Size of Countries|
 
 
-## Research
+## Research / Informative
 
 |Research|Description|
 |----|----|
 |https://sci-hub.se/|Research Papers|
 |https://libgen.is/|Research Papers|
+|https://www.gutenberg.org/|Free Public Domain AudioBooks|
+
+
+## Calculators
+
+|Other|Description|
+|----|----|
+|https://www.calculator.net/|Multiple Types of Calculators|
+|https://www.caffeineinformer.com/death-by-caffeine|How Much .... Can You Drink|
+|https://www.numbeo.com/cost-of-living/|Cost of Living Comparison|
 
 
 ## Other
@@ -31,6 +42,9 @@
 |----|----|
 |https://everynoise.com/|All Music Genres Based On Time|
 |https://neal.fun/deep-sea/|Deep Sea Info Based On Depth|
+|https://agoodmovietowatch.com/all/|Find Good Movies/Series To Watch|
+|https://www.justwatch.com/|Find What to Watch And Where|
+|https://www.howmanypeopleareinspacerightnow.com/|Current People In Space|
 
 <hr>
 
